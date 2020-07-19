@@ -1,0 +1,52 @@
+#container
+{
+    background-color: navy;
+    padding:10px;
+    width:970px;
+    margin:0 auto;
+}
+#header
+{
+    background-color: red;
+    color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+#sidebar
+{
+    background-color: teal;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    padding:10px;
+    padding-right:10px;
+    color:lightblue;
+    vertical-align: top;
+}
+a
+{
+    color:lightblue;
+}
+#main-content
+{
+    background-color: black;
+    color:white;
+    padding:10px;
+    border-radius: 10px;
+    padding-left:10px;
+    width:693px;
+    display: inline-block;
+    margin-top: 10px;
+}
+#footer
+{
+    background-color: gray;
+    border-radius: 10px;
+    padding:10px;
+    margin-top:10px;
+    color:white;
+}
+.purple
+{
+    color:#4052C0
+}
